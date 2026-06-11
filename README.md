@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de tercer año de Ingeniería en Ciencias de la Computación, <br>con interés en el desarrollo de software y análisis de datos. <br>Tengo experiencia en el desarrollo de frontend, backend, recolección, <br>procesamiento y análisis de datos. Tengo interés en comprender <br>como los usuarios interactúan con diversos productos digitales y <br>utilizar datos para apoyar la toma de decisiones estratégicas <br>basadas en datos.
+Estudiante de tercer año de Ingeniería en Ciencias de la Computación, con interés en el desarrollo de software y análisis de datos. Tengo experiencia en el desarrollo de frontend, backend, recolección, procesamiento y análisis de datos. Tengo interés en comprender como los usuarios interactúan con diversos productos digitales y utilizar datos para apoyar la toma de decisiones estratégicas basadas en datos.
 
 
 ## 🌐 Socials:
