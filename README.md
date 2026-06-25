@@ -1,21 +1,90 @@
-# 💫 About Me:
-Estudiante de tercer año de Ingeniería en Ciencias de la Computación, con interés en el desarrollo de software y análisis de datos. Tengo experiencia en el desarrollo de frontend, backend, recolección, procesamiento y análisis de datos. Tengo interés en comprender como los usuarios interactúan con diversos productos digitales y utilizar datos para apoyar la toma de decisiones estratégicas basadas en datos.
+<div align="center">
 
+# Hola, soy Sarah 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarah-estrada-5347282b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarahestrada33@gmail.com) 
+### Construyo software full-stack y me obsesiona entender cómo lo usa la gente
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MagicBag-tab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MagicBag-tab&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MagicBag-tab&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portafolio](https://img.shields.io/badge/Portafolio-magic--bag--portafolio.netlify.app-1E2738?style=for-the-badge&logo=netlify&logoColor=white)](https://magic-bag-portafolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah_Estrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-estrada-5347282b2/)
+[![Email](https://img.shields.io/badge/Email-sarahestrada33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahestrada33@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MagicBag-tab&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=MagicBag-tab&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Sobre mí
+
+Estudiante de Ingeniería en Ciencias de la Computación en la Universidad del Valle de Guatemala. Construyo aplicaciones de punta a punta — APIs en Go, interfaces en React/Vue, bases de datos en PostgreSQL — y cada vez me interesa más lo que pasa después de que el código funciona: cómo lo usa la gente y qué dicen los datos al respecto.
+
+```
+🎓  Ingeniería en Ciencias de la Computación · UVG (95 pts de promedio)
+🛠️  Full-stack: Go · React · Vue · PostgreSQL · Docker
+🔍  Explorando: UX/HCI y análisis de datos para decisiones de producto
+📍  Guatemala
+```
+
+<br>
+
+## 🚀 Algunos proyectos
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[FlowDesk](https://github.com/MagicBag-tab/flowdesk-frt)** | Gestión de inventarios multiempresa con roles, analíticas y reportes | Vue 3 · TypeScript · Go · PostgreSQL |
+| **[Magic Bag Gallery](https://github.com/MagicBag-tab/magic-bag-gallery-api)** | Plataforma de catálogo y ventas para una galería de arte | React · Go · PostgreSQL · JWT |
+| **[Music Mood API](https://github.com/MagicBag-tab/music-mood-api)** | API REST de canciones por estado de ánimo, con Swagger y demo en vivo | Go · PostgreSQL · Docker |
+
+→ Todos los detalles, capturas y links en mi **[portafolio](https://magic-bag-portafolio.netlify.app/)**.
+
+<br>
+
+## 🛠️ Stack
+
+**Lenguajes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Diseño & Herramientas**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+<br>
+
+## 📊 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=MagicBag-tab&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2D5878&icon_color=C54F44&text_color=2D3748" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MagicBag-tab&theme=transparent&hide_border=true&layout=compact&title_color=2D5878&text_color=2D3748&langs_count=8" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=MagicBag-tab&theme=transparent&hide_border=true&ring=C54F44&fire=C54F44&currStreakLabel=2D5878" width="60%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*¿Algo de lo que ves te interesa? Escríbeme — siempre con ganas de hablar de código, datos o diseño.*
+
+</div>
