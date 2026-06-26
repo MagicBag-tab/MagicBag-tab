@@ -73,16 +73,11 @@ Computer Science Engineering student at Universidad del Valle de Guatemala. I bu
 ## 📊 Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=MagicBag-tab&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2D5878&icon_color=C54F44&text_color=2D3748" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=MagicBag-tab&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2D5878&icon_color=2D5878&text_color=2D3748" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MagicBag-tab&theme=transparent&hide_border=true&layout=compact&title_color=2D5878&text_color=2D3748&langs_count=8" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=MagicBag-tab&theme=transparent&hide_border=true&ring=C54F44&fire=C54F44&currStreakLabel=2D5878" width="60%" />
-
+<img src="https://streak-stats.demolab.com/?user=MagicBag-tab&theme=transparent&hide_border=true&ring=2D5878&fire=2D5878&currStreakLabel=2D5878&sideNums=2D3748&sideLabels=2D3748&dates=2D3748" width="60%" />
 </div>
-
 <br>
-
 <div align="center">
 
 *Something here catch your eye? Reach out — always happy to talk code, data, or design.*
