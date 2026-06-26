@@ -17,7 +17,7 @@
 Estudiante de Ingeniería en Ciencias de la Computación en la Universidad del Valle de Guatemala. Construyo aplicaciones de punta a punta — APIs en Go, interfaces en React/Vue, bases de datos en PostgreSQL — y cada vez me interesa más lo que pasa después de que el código funciona: cómo lo usa la gente y qué dicen los datos al respecto.
 
 ```
-🎓  Ingeniería en Ciencias de la Computación · UVG (95 pts de promedio)
+🎓  Ingeniería en Ciencias de la Computación · UVG
 🛠️  Full-stack: Go · React · Vue · PostgreSQL · Docker
 🔍  Explorando: UX/HCI y análisis de datos para decisiones de producto
 📍  Guatemala
